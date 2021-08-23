@@ -19,7 +19,7 @@ Publish tf message
   $ cd talker
   $ catkin_make
   $ rosrun roscpp_tutorials talker
-
+</pre>
 
 
 
